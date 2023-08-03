@@ -2,6 +2,7 @@
 <h3 align="center">A passionate mobile developer from DRC</h3>
 
 - 📫 How to reach me **kabweortega@gmail.com**
+- 🌱 I’m currently learning **Jetpack Compose And Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
