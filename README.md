@@ -11,4 +11,5 @@
 
 * E-mail : [kabweortega@gmail.com]
 * LinkedIn : [https://www.linkedin.com/in/ortega-kabwe-69a484228]
+* X: [https://x.com/ortega_kbm]
 
