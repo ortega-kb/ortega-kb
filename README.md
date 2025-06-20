@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ortega_kb</h1>
 <h3 align="center">A passionate mobile developer from DRC</h3>
 
-## Compétences
+## Skills
 
 * **Langages :** Dart, Java
 * **Frameworks :** Spring boot, Flutter
